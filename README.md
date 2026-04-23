@@ -17,7 +17,7 @@ I am a passionate developer who loves building innovative software solutions. I 
 - ⚡ Fun fact: **I dream in Trading & code.**
 
 ### 🛠️ Tech Stack
-<div align="center" style='display:flex;'>
+<div style="display: flex; gap: 8px; padding: 16px; margin: 0 auto; width: 420px; justify-content: center; flex-wrap: wrap;">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="margin: 10px;"/>
   </a>
