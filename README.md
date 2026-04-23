@@ -17,26 +17,26 @@ I am a passionate developer who loves building innovative software solutions. I 
 - ⚡ Fun fact: **I dream in trading & coding.**
 
 ### 🛠️ Tech Stack
-<div style="display: flex; flex-direction: row; gap: 8px; padding: 16px; margin: 0 auto; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 600px;">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
+<p align="center">
+  <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" style="margin: 10px;" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" style="margin: 10px;" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" style="margin: 10px; />
   </a>
-  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="50" height="50"/>
+  <a href="https://appwrite.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="50" style="margin: 10px; />
   </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/>
+  <a href="https://go.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" style="margin: 10px; />
   </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
+  <a href="https://flutter.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" style="margin: 10px; />
   </a>
-</div>
+</p>
 
 ### 🏆 GitHub Stats
 <p align="center">
@@ -45,14 +45,14 @@ I am a passionate developer who loves building innovative software solutions. I 
 </p>
 
 ### 🤝 Connect with me
-<div style="display: flex; flex-direction: row; gap: 8px; padding: 16px; margin: 0 auto; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 600px;">
-  <a href="https://twitter.com/devsoft94" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40"/>
+<p align="center">
+  <a href="https://twitter.com/devsoft94">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" style="margin: 10px;" />
   </a>
-  <a href="https://linkedin.com/in/devsoft94" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40"/>
+  <a href="https://linkedin.com/in/devsoft94">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin: 10px;" />
   </a>
-  <a href="https://github.com/Devsoft94" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40"/>
+  <a href="https://github.com/Devsoft94">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" style="margin: 10px;" />
   </a>
-</div>
+</p>
