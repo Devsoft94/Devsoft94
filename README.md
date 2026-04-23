@@ -17,7 +17,7 @@ I am a passionate developer who loves building innovative software solutions. I 
 - ⚡ Fun fact: **I dream in Trading & code.**
 
 ### 🛠️ Tech Stack
-<p align="center">
+<div align="center" style='display:flex;'>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="margin: 10px;"/>
   </a>
@@ -36,7 +36,7 @@ I am a passionate developer who loves building innovative software solutions. I 
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50" style="margin: 10px;"/>
   </a>
-</p>
+</div>
 
 ### 🏆 GitHub Stats
 <p align="center">
